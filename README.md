@@ -55,10 +55,10 @@
 
 ## 📜 Certifications
 
-- ✅ **[Power BI - Microsoft](https://learn.microsoft.com/en-us/users/microsoftpowerplatform/collections/mg6l4o3n04o5kg?WT.mc_id=studentamb_80442)**  
 - ✅ **[Data Analytics & Visualization - Tata](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_8tLZf9MfAuiL8u9ik_1750770749309_completion_certificate.pdf)**  
-- ✅ **[Data Fundamentals - IBM]((https://www.credly.com/badges/ddbc8d35-35c3-4be8-ba74-e2fb1c3290c3/public_url))**  
-- ✅ **[Deloitte Data Analytics Job Simulation]([https://www.theforage.com/virtual-internships/prototype/M9D2eEzkqJGBga9Ff/Data-Analytics](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_8tLZf9MfAuiL8u9ik_1750787537032_completion_certificate.pdf))**
+- ✅ **[Data Fundamentals - IBM](https://www.credly.com/badges/ddbc8d35-35c3-4be8-ba74-e2fb1c3290c3/public_url)**  
+- ✅ **[Deloitte Data Analytics Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_8tLZf9MfAuiL8u9ik_1750787537032_completion_certificate.pdf)**
+- ✅ **[Power BI - Microsoft](https://learn.microsoft.com/en-us/users/microsoftpowerplatform/collections/mg6l4o3n04o5kg?WT.mc_id=studentamb_80442)**  
 
 ---
 
