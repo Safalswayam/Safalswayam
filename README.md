@@ -108,7 +108,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SafalSwayam&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafalSwayam&layout=compact&theme=radical" />
 </p>
 
 ---
